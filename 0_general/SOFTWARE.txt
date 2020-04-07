@@ -1,0 +1,7 @@
+Software used:
+	-Notepad++ v7.8.4
+	-Excel for Office 365
+	-Microsoft SQL Server Management Studio 18
+	-Visual Studio 2019, SQL Server Integration Services Projects Extension
+
+

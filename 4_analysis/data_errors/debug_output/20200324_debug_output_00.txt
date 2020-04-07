@@ -1,0 +1,18 @@
+SSIS package "C:\Users\fcame\source\repos\creating_SQL_stored_procedures\creating_SQL_stored_procedures\Package.dtsx" starting.
+Information: 0x4004300A at 20200324_CustomerList, SSIS.Pipeline: Validation phase is beginning.
+Information: 0x4004300A at 20200324_CustomerList, SSIS.Pipeline: Validation phase is beginning.
+Warning: 0x80049304 at 20200324_CustomerList, SSIS.Pipeline: Warning: Could not open global shared memory to communicate with performance DLL; data flow performance counters are not available.  To resolve, run this package as an administrator, or on the system's console.
+Information: 0x40043006 at 20200324_CustomerList, SSIS.Pipeline: Prepare for Execute phase is beginning.
+Information: 0x40043007 at 20200324_CustomerList, SSIS.Pipeline: Pre-Execute phase is beginning.
+Information: 0x402090DC at 20200324_CustomerList, Flat File Source [30]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\3_uploaded_data\20200324\CustomerList.csv" has started.
+Information: 0x402090DC at 20200324_CustomerList, Flat File Destination [14]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\4_analysis\data_errors\automatically_excluded_results\20200324_CustomerList_InsufficientData.txt" has started.
+Information: 0x4004300C at 20200324_CustomerList, SSIS.Pipeline: Execute phase is beginning.
+Information: 0x402090DE at 20200324_CustomerList, Flat File Source [30]: The total number of data rows processed for file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\3_uploaded_data\20200324\CustomerList.csv" is 44.
+Information: 0x40043008 at 20200324_CustomerList, SSIS.Pipeline: Post Execute phase is beginning.
+Information: 0x402090DD at 20200324_CustomerList, Flat File Source [30]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\3_uploaded_data\20200324\CustomerList.csv" has ended.
+Information: 0x402090DD at 20200324_CustomerList, Flat File Destination [14]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\4_analysis\data_errors\automatically_excluded_results\20200324_CustomerList_InsufficientData.txt" has ended.
+Information: 0x4004300B at 20200324_CustomerList, SSIS.Pipeline: "Flat File Destination" wrote 0 rows.
+Information: 0x4004300B at 20200324_CustomerList, SSIS.Pipeline: "OLE DB Destination" wrote 43 rows.
+Information: 0x40043009 at 20200324_CustomerList, SSIS.Pipeline: Cleanup phase is beginning.
+SSIS package "C:\Users\fcame\source\repos\creating_SQL_stored_procedures\creating_SQL_stored_procedures\Package.dtsx" finished: Success.
+The program '[16068] DtsDebugHost.exe: DTS' has exited with code 0 (0x0).

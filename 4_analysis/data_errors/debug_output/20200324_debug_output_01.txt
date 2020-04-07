@@ -1,0 +1,20 @@
+SSIS package "C:\Users\fcame\source\repos\creating_SQL_stored_procedures\creating_SQL_stored_procedures\Package.dtsx" starting.
+Information: 0x4004300A at 20200324_TransactionalData, SSIS.Pipeline: Validation phase is beginning.
+Information: 0x4004300A at 20200324_TransactionalData, SSIS.Pipeline: Validation phase is beginning.
+Warning: 0x80049304 at 20200324_TransactionalData, SSIS.Pipeline: Warning: Could not open global shared memory to communicate with performance DLL; data flow performance counters are not available.  To resolve, run this package as an administrator, or on the system's console.
+Information: 0x40043006 at 20200324_TransactionalData, SSIS.Pipeline: Prepare for Execute phase is beginning.
+Information: 0x40043007 at 20200324_TransactionalData, SSIS.Pipeline: Pre-Execute phase is beginning.
+Information: 0x402090DC at 20200324_TransactionalData, Flat File Source [37]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\3_uploaded_data\20200324\TransactionalData.csv" has started.
+Information: 0x402090DC at 20200324_TransactionalData, Flat File Destination [15]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\4_analysis\data_errors\automatically_excluded_results\20200324_TransactionalData_InsufficientData.txt" has started.
+Information: 0x4004300C at 20200324_TransactionalData, SSIS.Pipeline: Execute phase is beginning.
+Information: 0x402090DE at 20200324_TransactionalData, Flat File Source [37]: The total number of data rows processed for file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\3_uploaded_data\20200324\TransactionalData.csv" is 44.
+Information: 0x402090DF at 20200324_TransactionalData, OLE DB Destination [78]: The final commit for the data insertion in "OLE DB Destination" has started.
+Information: 0x402090E0 at 20200324_TransactionalData, OLE DB Destination [78]: The final commit for the data insertion  in "OLE DB Destination" has ended.
+Information: 0x40043008 at 20200324_TransactionalData, SSIS.Pipeline: Post Execute phase is beginning.
+Information: 0x402090DD at 20200324_TransactionalData, Flat File Source [37]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\3_uploaded_data\20200324\TransactionalData.csv" has ended.
+Information: 0x402090DD at 20200324_TransactionalData, Flat File Destination [15]: The processing of file "C:\Users\fcame\Documents\Projects\20200324_creating_SQL_stored_procedures_project\4_analysis\data_errors\automatically_excluded_results\20200324_TransactionalData_InsufficientData.txt" has ended.
+Information: 0x4004300B at 20200324_TransactionalData, SSIS.Pipeline: "Flat File Destination" wrote 0 rows.
+Information: 0x4004300B at 20200324_TransactionalData, SSIS.Pipeline: "OLE DB Destination" wrote 43 rows.
+Information: 0x40043009 at 20200324_TransactionalData, SSIS.Pipeline: Cleanup phase is beginning.
+SSIS package "C:\Users\fcame\source\repos\creating_SQL_stored_procedures\creating_SQL_stored_procedures\Package.dtsx" finished: Success.
+The program '[25072] DtsDebugHost.exe: DTS' has exited with code 0 (0x0).

@@ -1,0 +1,10 @@
+Data
+	-Customer List and Transactional Data for office supply sales
+	-Data is converted implicitly
+	
+Instructions
+	-Create stored procedures for creating working(WRK) tables to make data available to be used in analysis
+	-Create stored procedures template
+	-Create a back up for a stored procedure
+	-Create an example derived(DRV) table
+
