@@ -1,6 +1,6 @@
 # Project Log
 
-![](/images/raw.png)
+![](/images/rawtables.png)
 * Prepared data
 * See [ssis_data_preparation_project_0](https://github.com/timamero/ssis_data_preparation_project_0) for example 
 * Loaded data to the OFFICESUPPLIES database in SQL Server
